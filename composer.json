@@ -2,8 +2,8 @@
     "name": "compactcode/intercom",
     "description": "",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0",
-        "compactcode/base": ">=1.1.2",
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+        "compactcode/base": ">=1.1.3",
         "magento/module-customer": ">=100.0.15",
         "intercom/intercom-php": "*",
         "php-http/guzzle6-adapter" : "*"
@@ -12,7 +12,7 @@
 
     },
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
